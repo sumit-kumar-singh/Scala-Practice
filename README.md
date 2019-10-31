@@ -106,3 +106,16 @@ scalaExample
 1. Build tool provides facility to compile, run, test and package your projects.
 2. sbt is an open source build tool for Scala and Java projects, similar to Java's maven and ant.
 
+### Where it shines
+##### Some Interesting Facts About Scala
+1. Name: Scala is short for Scalable Language.
+2. A Hybrid Language: Scala is a fusion of Object Oriented Programming(OOP) and Functional Programming. OOP is a programming paradigm based on the concept of “objects”, which are data structures that contain data in the form of fields and code in the form of procedures or methods. On the other hand, Functional programming is a programming paradigm, computer programs, are building by a structure and elements. that the evaluation of mathematical functions are treated as computation and avoids mutable data and also avoids changing-state . These two paradigms differentiate Scala from other programming languages.
+2. Auto-Inference: Scala automatically infers type information. Type information is supplied by the user only if it is necessary.
+3. Mutable and Immutable Variables: Scala allows us to make any variable mutable or immutable at the time of declaration. Keyword var defines any variable as mutable while keyword val defines a variable as immutable.
+4. No Semicolon: Semicolon acts as a separator in most of the modern programming languages(C, C++, Java, etc) and is a mandatory character to be written after every statement. However, Scala does not need a semicolon after every statement. Scala statements can be separated by newline character.
+5. Import statements: It is not necessary to write all import statements in the beginning of the program. Importing classes in Scala can be done at any point.
+6. Features of Scala: Apart from all OOP features of Java, Scala has features of functional programming languages like Scheme, Standard ML and Haskell, including currying, type inference, immutability, lazy evaluation, and pattern matching.
+7.Functions and Procedures: In Scala, functions and procedures are two different entities and are not used interchangeably. Function can return any type and contains = sign in its prototype. Procedure, on the other hand, does not have = sign and has Unit() return type in all cases. Print statements are generally not encouraged in function definition.
+8. Higher-Order Functions: In Scala, we can pass a function as an argument to another function. Such functions are called higher-order functions.
+9. Supports Nested Functions: We can define a function within another function and make use of it as per the requirement. Nested function can be called from any point within the scope of outer function.
+10. Big Data Industry: Apache Spark is an open-source cluster-computing framework and is a widely used technology for big data processing. Spark programs are written in Scala because of its scalability on JVM . Scala is most prominently used language by big data developers for working on Spark projects. Use cases of Spark with Scala- Alibaba, Netflix, Pinterest, etc.
