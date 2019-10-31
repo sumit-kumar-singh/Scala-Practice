@@ -12,7 +12,7 @@ sampleProgram
 */
 
 /** 
- 	* Author comment
+ 	* Documentation comment
     * In the main method, we have created a variable named a 
     * and printed it 
     *  
