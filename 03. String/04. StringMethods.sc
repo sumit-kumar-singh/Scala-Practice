@@ -50,3 +50,4 @@ object MainObject {
 		s.substringMethod()
 	}
 }
+
