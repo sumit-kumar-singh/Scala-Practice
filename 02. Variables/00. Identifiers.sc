@@ -1,8 +1,8 @@
-// Identifiers are used for identification purpose.
-// In Scala, an identifier can be a class, method, variable or object name.
+// identifiers are used for identification purpose.
+// in Scala, an identifier can be a class, method, variable or object name
 
 // demo
-class GFG{
+class GFG {
     var a: Int = 20
 }
 
@@ -23,6 +23,7 @@ args: Variable name
 ob: Object name
 
 class, object, def, Array, String and var these are Keywords
+
 */
 
 /*

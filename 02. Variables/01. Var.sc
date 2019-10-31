@@ -1,5 +1,5 @@
-// Variable is a name which is used to refer memory location
-// You can create mutable and immutable variable in scala.
+// variable is a name which is used to refer memory location
+// you can create mutable and immutable variable in scala
 // creating variables using var
 // var are mutable varibales which can be changed
 // datatypes list -
@@ -22,17 +22,19 @@
 
 Default value of Boolean is false and for String is Null
 
-Rules for naming variable in Scala
-
-Variable name should be in lower case.
-Variable name can contain letter, digit and two special characters
-Allowed special characters are (Underscore(_) and Dollar($) sign)
-Variable name must not contain the keyword or reserved word.
-Starting letter of the variable name should be an alphabet.
-White space is not allowed in variable name.
-
 */
 
+/*
+Rules for naming variable in Scala
+
+1. Variable name should be in lower case.
+2. Variable name can contain letter, digit and two special characters
+3. Allowed special characters are (Underscore(_) and Dollar($) sign)
+4. Variable name must not contain the keyword or reserved word.
+5. Starting letter of the variable name should be an alphabet.
+6. White space is not allowed in variable name.
+
+*/
 
 // var is a keyword and age is a variable name
 var age : Int = 25
@@ -44,3 +46,4 @@ println("After - Age is : " + age)
 
 // displays format string 
 printf("Format String - Age is : %d", age) 
+
