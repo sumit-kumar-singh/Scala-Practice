@@ -1,4 +1,5 @@
-// string comparison
+// scala program of the string comparison
+
 // creating class
 class StringComparison {
 	var a : String = "Scala string example"

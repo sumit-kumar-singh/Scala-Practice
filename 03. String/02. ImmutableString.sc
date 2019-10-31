@@ -1,3 +1,5 @@
+// scala program of the immutable string
+
 // creating class
 class StringExample {
 	var s: String = "Scala string example"

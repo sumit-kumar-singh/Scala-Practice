@@ -1,3 +1,5 @@
+// scala program of the string interpolation
+
 // create class
 class StringInterpolation {
 	val name : String = "Sumit kumar"

@@ -1,4 +1,4 @@
-// pre-defined string methods
+// scala program of the pre-defined string methods
 
 // creating class
 class StringMethod {
